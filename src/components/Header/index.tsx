@@ -4,7 +4,7 @@ export const Header = () => {
   return (
     <div className="header__container">
       <img
-        src="/logo__unisom.png"
+        src="/logo__unisom_01.png"
         alt="Unisom Aparelhos Auditivos"
         className="logo__img"
       />

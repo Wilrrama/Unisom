@@ -1,10 +1,11 @@
 import { Header } from "./components/Header";
+import { Patient } from "./components/Patient";
 
 function App() {
   return (
     <>
       <Header />
-      <h1>Vite + React</h1>
+      <Patient />
     </>
   );
 }
